@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Elixir",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "sfairchild",
+    "githubRepository": "elixir-101"
+  }
+}
