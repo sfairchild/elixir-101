@@ -1,1 +1,9 @@
-["index.md"]
+[
+    "index.md",
+    {
+        "filename": "why-elixir.md",
+        "attr": {
+            "data-background": "#591270"
+        }
+    }
+]
